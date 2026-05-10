@@ -12,7 +12,7 @@
 - 🎓 Economista y estudiante de Maestría en **Estadística Aplicada** en USAC
 - 💼 Analista de Precios en el **Instituto Nacional de Estadística (INE)** de Guatemala
 - 👨‍🏫 Auxiliar de cátedra en USAC (Metodología, Macroeconomía, Política Monetaria)
-- 🌐 Fundador de **[EcoBusiness Data](https://ecobusinessdata.com)** — consultoría en BI y análisis de datos
+- 🌐 Fundador de **[ecobusinessdata](https://ecobusinessdata.com)** — consultoría en BI y análisis de datos
 - 🔭 Trabajando en proyectos de econometría, dashboards y plataformas web
 - 🌱 Profundizando en **Machine Learning, Cloud (Azure/AWS)** y automatización
 - 💬 Pregúntame sobre **econometría, índices de precios, R, Python o Power BI**
