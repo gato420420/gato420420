@@ -68,8 +68,8 @@
 
 ### 🎯 Áreas de especialización
 
-- 📈 **Econometría aplicada** — modelos VECM, ARIMAX, series de tiempo
-- 📊 **Índices de precios y metodología estadística**
+- 📈 **Econometría aplicada** — modelos de series de tiempo
+- 📊 **Estadística-Matematica**
 - 🗄️ **Diseño de bases de datos** y pipelines ETL
 - 📉 **Dashboards e indicadores KPI** con Power BI
 - 🌐 **Desarrollo web full-stack** con Django y React
