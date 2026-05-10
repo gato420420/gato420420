@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Brayan</h1>
-<h3 align="center">Economista | Analista de Datos | Estadístico Aplicado 🇬🇹</h3>
+<h3 align="center">Economista | Analista de Datos 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9CCA&center=true&vCenter=true&width=600&lines=Economist+%26+Data+Analyst;Statistical+Methodology+%26+Econometrics;Business+Intelligence+Consultant;Building+data+solutions+from+Guatemala" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 - 🔭 Trabajando en proyectos de econometría, dashboards y plataformas web
 - 🌱 Profundizando en **Machine Learning, Cloud (Azure/AWS)** y automatización
 - 💬 Pregúntame sobre **econometría, índices de precios, R, Python o Power BI**
-- 📫 Contáctame: **brayan@ecobusinessdata.com**
+- 📫 Contáctame:
 - ⚡ Dato curioso: también disfruto del diagnóstico y reparación automotriz 🔧
 
 ---
