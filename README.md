@@ -83,12 +83,6 @@
   <a href="https://ecobusinessdata.com">
     <img src="https://img.shields.io/badge/Website-2E9CCA?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:brayan@ecobusinessdata.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
