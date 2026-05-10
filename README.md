@@ -15,7 +15,7 @@
 - 🌐 Fundador de **[ecobusinessdata](https://ecobusinessdata.com)** — consultoría en BI y análisis de datos
 - 🔭 Trabajando en proyectos de econometría, dashboards y plataformas web
 - 🌱 Profundizando en **Machine Learning, Cloud (Azure/AWS)** y automatización
-- 💬 Pregúntame sobre **econometría, índices de precios, R, Python o Power BI**
+- 💬 Pregúntame sobre **Economia, Estadística, ML, DL, R, Python o Power BI**
 - 📫 Contáctame:
 - ⚡ Dato curioso: también disfruto del diagnóstico y reparación automotriz 🔧
 
